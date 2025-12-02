@@ -25,7 +25,7 @@ This project solves the problem of "hallucinated recipes" by enforcing a researc
 ## Plan
 I plan to execute these steps to complete my project:
 
-* [TODO] Step 1: Project initialization: Set up dependencies (LangGraph, Tavily), API environment, and imports.
+* [DONE] Step 1: Project initialization: Set up dependencies (LangGraph, Tavily), API environment, and imports.
 * [TODO] Step 2: Define Data Structures: Create Pydantic models for `FoodAnalyst` personas and `GraphState` management.
 * [TODO] Step 3: Agent Development (Analyst Creator): Build the node responsible for generating specific culinary personas based on user input.
 * [TODO] Step 4: Tool Integration: Implement `TavilySearch` and `WikipediaLoader` tools and the logic for generating search queries.

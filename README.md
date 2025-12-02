@@ -23,6 +23,8 @@ This project solves the problem of "hallucinated recipes" by enforcing a researc
 ## Video Summary Link
 
 Here is the google drive link of the video summary:
+
+
 video: https://drive.google.com/file/d/1VQVrIj7tS1LPdQbh3jsT4_v-3eEKe2WV/view?usp=sharing
 
 ## Plan

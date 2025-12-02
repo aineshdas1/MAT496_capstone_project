@@ -27,7 +27,7 @@ I plan to execute these steps to complete my project:
 
 * [DONE] Step 1: Project initialization: Set up dependencies (LangGraph, Tavily), API environment, and imports.
 * [DONE] Step 2: Define Data Structures: Create Pydantic models for `FoodAnalyst` personas and `GraphState` management.
-* [TODO] Step 3: Agent Development (Analyst Creator): Build the node responsible for generating specific culinary personas based on user input.
+* [DONE] Step 3: Agent Development (Analyst Creator): Build the node responsible for generating specific culinary personas based on user input.
 * [TODO] Step 4: Tool Integration: Implement `TavilySearch` and `WikipediaLoader` tools and the logic for generating search queries.
 * [TODO] Step 5: Graph Logic (Interview Loop): Construct the core `StateGraph` that manages the cycle of questioning, searching, and answering.
 * [TODO] Step 6: Reporting Engine: Implement the logic to synthesize distinct agent interviews into a cohesive final guide.
